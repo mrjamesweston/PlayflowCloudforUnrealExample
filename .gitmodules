@@ -1,0 +1,3 @@
+[submodule "Plugins/PlayflowCloudForUnreal"]
+	path = Plugins/PlayflowCloudForUnreal
+	url = https://github.com/mrjamesweston/PlayflowCloudForUnreal
